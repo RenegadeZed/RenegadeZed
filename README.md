@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate; not sure, yet
 - 📫 How to reach me: {
-
-                        "Twitter": https://twitter.com/RealRenegadeZed
 						
                         "Discord": RenegadeZed#4600
 						
